@@ -1,0 +1,35 @@
+_repo: A-History-of-Sarawak-under-Its-Two-White-Rajahs-1839-1908_52873
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Gould, S. Baring
+    - Gould, Sabine Baring
+    - Baring-Gould, Sabine
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+  - agent_name: Bampfylde, C. A.
+    gutenberg_agent_id: '47100'
+    url: http://www.gutenberg.org/2009/agents/47100
+description: ''
+gutenberg_issued: '2016-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52873'
+  lccn: tmp96023040
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charles, Rajah of Sarawak, 1829-1917'
+- !lcsh 'James, Rajah of Sarawak, 1803-1868'
+- !lcsh 'Sarawak (Malaysia) -- History'
+- !lcc 'DS'
+- GITenberg
+title: A History of Sarawak under Its Two White Rajahs 1839-1908
+url: http://www.gutenberg.org/ebooks/52873
